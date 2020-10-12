@@ -3681,7 +3681,7 @@
         "eslint-plugin-prettier": "^3.1.2",
         "eslint-plugin-react": "^7.20.3",
         "eslint-plugin-react-hooks": "^4.0.0",
-        "event-stream": "3.3.4",
+        "event-stream": "3.3.5",
         "expose-loader": "^0.7.5",
         "express": "^4.17.1",
         "extract-zip": "^1.6.7",
